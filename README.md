@@ -1,3 +1,3 @@
-## Practice of building admin panel in e-commerce shop  of laravel project
+## Practice of building e-commerce shop  of laravel project
 
 Training project 
